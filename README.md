@@ -23,4 +23,4 @@ higher than existing methods.
 
 https://arxiv.org/ftp/arxiv/papers/1712/1712.05114.pdf
 
-Source code and a GUI lung cancer diagnosis platform will be released.
+<b>Source code and a GUI lung cancer diagnosis platform</b> will be released.
