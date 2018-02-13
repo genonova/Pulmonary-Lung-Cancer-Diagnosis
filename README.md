@@ -1,4 +1,4 @@
-# Pulmonary Lung Cancer Diagnosis
+## Pulmonary Lung Cancer Diagnosis
 
 Detection and Attention: Diagnosing Pulmonary Lung Cancer from CT by Imitating Physicians 
 
