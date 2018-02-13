@@ -2,7 +2,7 @@
 
 Detection and Attention: Diagnosing Pulmonary Lung Cancer from CT by Imitating Physicians 
 
-This paper proposes a novel and efficient method to
+Abstract: This paper proposes a novel and efficient method to
 build a Computer-Aided Diagnoses (CAD) system for lung nodule
 detection based on Computed Tomography (CT). This task was
 treated as an Object Detection on Video (VID) problem by
@@ -23,4 +23,4 @@ higher than existing methods.
 
 https://arxiv.org/ftp/arxiv/papers/1712/1712.05114.pdf
 
-<b>Source code and a GUI lung cancer diagnosis platform</b> will be released.
+<b>Source code</b> and a <b>GUI lung cancer diagnosis platform</b> will be released.
