@@ -1,4 +1,5 @@
-# CT
+# Pulmonary Lung Cancer Diagnosis
+
 Detection and Attention: Diagnosing Pulmonary Lung Cancer from CT by Imitating Physicians 
 
 This paper proposes a novel and efficient method to
@@ -21,3 +22,5 @@ within 20 seconds per patient on a single NVidia GTX 1080) much
 higher than existing methods. 
 
 https://arxiv.org/ftp/arxiv/papers/1712/1712.05114.pdf
+
+Source code and a GUI lung cancer diagnosis platform will be released.
